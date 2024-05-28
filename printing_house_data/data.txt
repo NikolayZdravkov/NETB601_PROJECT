@@ -1,0 +1,11 @@
+Income: $3240.0
+Paper Expenses: $3600.0
+Salary Expenses: $7200.0
+Total Expenses: $10800.0
+Profit: $-7560.0
+Printed Publications:
+John Doe earns: $3000.0
+Jane Smith earns: $4200.0
+Machines:
+Machine1 - Type: MONOCHROME, Max Sheets: 500, Current Sheets: 0
+Machine2 - Type: COLORED, Max Sheets: 300, Current Sheets: 0
